@@ -1,0 +1,10 @@
+Ederson ;Moraes    ;Manchester City  ;Brazil   ;GK;17
+Edouard ;Mendy     ;Chelsea          ;Senegal  ;GK;15
+Kasper  ;Schmeichel;Leicester City   ;Denmark  ;GK;11
+Emiliano;Martinez  ;Aston Villa      ;Argentina;GK;14
+Rui     ;Patricio  ;Wolves           ;Portugal ;GK;10
+Hugo    ;Lloris    ;Tottenham Hotspur;France   ;GK;10
+Illan   ;Meslier   ;Leeds United     ;France   ;GK;10
+Nick    ;Pope      ;Burnley          ;England  ;GK;10
+Alphonso;Areola    ;Fulham           ;France   ;GK;9
+David   ;De Gea    ;Manchester United;Spain    ;GK;9

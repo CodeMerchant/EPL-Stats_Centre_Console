@@ -1,0 +1,507 @@
+Cédric        ;Soares            ;Arsenal          ;Portugal            ;RB ;	29;	10;	745	;   0;	1;	1;	0;	0;	6.3
+Trent         ;Alexander-Arnold  ;Liverpool        ;England             ;RB ;   22;	32;	2673;	2;	5;	1;	0;	2;	7.0
+Ahmed         ;El Mohamady       ;Aston Villa      ;Egypt               ;RB ;   33;	12;	698 ;	0;	0;	2;	0;	0;	6.7
+Tammy         ;Abraham           ;Chelsea          ;England             ;CF ;   23;	22;	1035;	6;	1;	0;	0;	0;	6.4
+Ivan          ;Cavaleiro         ;Fulham           ;Portugal            ;LW ;   27;	33;	2205;	3;	0;	2;	0;	0;	6.1
+Che           ;Adams             ;Southampton      ;Scotland            ;ST ;   24;	34;	2539;	8;	5;	1;	0;	0;	6.3
+Tosin         ;Adarabioyo        ;Fulham           ;England             ;CB ;   23;	30;	2684;	0;	0;	1;	0;	2;	6.6
+Sergio        ;Agüero            ;Manchester City  ;Argentina           ;ST ;   32;	11;	534 ;	2;	1;	0;	0;	0;	6.4
+Karlan        ;Ahearne-Grant     ;West Brom        ;England             ;ST ;   23;	18;	1113;	1;	0;	1;	0;	0;	5.7
+Ola           ;Aina              ;Fulham           ;Nigeria             ;RB ;   24;	30;	2609;	2;	1;	3;	0;	0;	6.5
+Rayan         ;Aït Nouri         ;Wolves           ;France              ;LB ;   19;	19;	1232;	1;	1;	0;	0;	0;	6.3
+Semi          ;Ajayi             ;West Brom        ;Nigeria             ;CB ;   27;	30;	2508;	2;	0;	3;	1;	0;	5.9
+Nathan        ;Aké               ;Manchester City  ;Netherlands         ;CB ;	26;	9 ;	707	;   1;	0;	4;	0;	1;	6.8
+Marc          ;Albrighton        ;Leicester City   ;England             ;RM ;	31;	29;	1503;	1;	4;	2;	0;	0;	6.3
+Thiago        ;Alcântara         ;Liverpool        ;Spain               ;CM ;	30;	20;	1497;	1;	0;	4;	0;	1;	7.1
+Toby          ;Alderweireld      ;Tottenham Hotspur;Belgium             ;CB ;	32;	22;	1971;	1;	0;	2;	0;	0;	6.5
+Ezgjan        ;Alioski           ;Leeds United     ;North Macedonia     ;LWB;	29;	33;	2194;	2;	2;	7;	0;	2;	6.3
+Dele          ;Alli              ;Tottenham Hotspur;England             ;CAM;	25;	12;	378	;   0;	1;	0;	0;	0;	6.4
+Miguel        ;Almirón           ;Newcastle United ;Paraguay            ;RM ;	27;	31;	2179;	4;	1;	3;	0;	2;	6.4
+Marcos        ;Alonso            ;Chelsea          ;Spain               ;LB ;   30;	13;	960	;   2;	0;	2;	0;	0;	6.8
+Carlos        ;Vinícius          ;Tottenham Hotspur;Brazil              ;ST ;	26;	9 ;	303	;   1;	0;	2;	0;	0;	5.8
+Steven        ;Alzate            ;Brighton         ;Colombia            ;CM ;	22;	12;	741	;   1;	0;	2;	0;	0;	6.3
+Daniel        ;Amartey           ;Leicester City   ;Ghana               ;CB ;	26;	12;	720	;   1;	0;	2;	0;	0;	6.4
+Ethan         ;Ampadu            ;Sheffield United ;Wales               ;CB ;	20;	25;	2091;	0;	0;	3;	0;	1;	6.3
+Joachim       ;Andersen          ;Fulham           ;Denmark             ;CB ;	24;	29;	2581;	1;	1;	6;	1;	1;	6.6
+Elliot        ;Anderson          ;Newcastle United ;Scotland            ;CAM;	18;	1 ;	3	;   0;	0;	0;	0;	0;	0.0
+Felipe        ;Anderson          ;West Ham         ;Brazil              ;CAM;   28;	2 ;	1	;   0;	0;	0;	0;	0;	0.0
+Michail       ;Antonio           ;West Ham         ;England             ;ST ;   31;	23;	1735;	9;	5;	3;	0;	2;	6.7
+Joelinton     ;Apolinário de Lira;Newcastle        ;Brazil              ;CF ;   24;	29;	1858;	3;	2;	3;	0;	2;	6.3
+Alphonse      ;Aréola            ;Fulham           ;France              ;GK ;	28;	34;	3060;	0;	0;	1;	0;	1;	6.6
+Stuart        ;Armstrong         ;Southampton      ;Scotland            ;CM ;   29;	30;	2516;	4;	5;	3;	0;	1;	6.5
+Kepa          ;Arrizabalaga      ;Chelsea          ;Spain               ;GK ;	26;	5 ;	450	;   0;	0;	0;	0;	0;	6.2
+Pierre Emerick;Aubameyang        ;Arsenal          ;Gabon               ;LW ;	31;	26;	2088;	10;	2;	2;	0;	2;	6.4
+Serge         ;Aurier            ;Tottenham Hotspur;Ivory Coast         ;RB ;	28;	19;	1609;	2;	3;	0;	0;	0;	6.8
+Charlie       ;Austin            ;West Brom        ;England             ;ST ;	31;	5 ;	133	;   0;	0;	0;	0;	0;	5.8
+Jordan        ;Ayew              ;Crystal Palace   ;Ghana               ;CF ;	29;	31;	1996;	1;	3;	3;	0;	0;	6.2
+Luke          ;Ayling            ;Leeds United     ;England             ;RWB;	29;	35;	3130;	0;	0;	7;	0;	0;	6.5
+Hélder        ;Costa             ;Leeds United     ;Angola              ;CAM;	27;	22;	1155;	3;	3;	0;	0;	1;	6.1
+Cesar         ;Azpilicueta       ;Chelsea          ;Spain               ;RB ;	31;	23;	1935;	1;	2;	4;	0;	1;	7.1
+Eric          ;Bailly            ;Manchester United;Ivory Coast         ;CB ;	27;	10;	739	;   0;	0;	2;	0;	0;	6.5
+Fabián        ;Balbuena          ;West Ham         ;Paraguay            ;CB ;	29;	14;	1197;	1;	0;	1;	1;	0;	6.4
+George        ;Baldock           ;Sheffield United ;England             ;RB ;	28;	30;	2609;	0;	2;	5;	0;	1;	6.2
+Gareth        ;Bale              ;Tottenham Hotspur;Wales               ;RW ;	31;	17;	791	;   9;	2;	1;	0;	3;	7.0
+Patrick       ;Bamford           ;Leeds United     ;England             ;ST ;   27;	35;	2870;	15;	7;	3;	0;	2;	6.5
+Roberto       ;Firmino           ;Liverpool        ;Brazil              ;ST ;	29;	32;	2501;	6;	6;	2;	0;	0;	6.8
+Ricardo       ;Pereira           ;Leicester City   ;Portugal            ;RB ;	27;	13;	906	;   0;	1;	2;	0;	0;	6.5
+Phil          ;Bardsley          ;Burnley          ;Scotland            ;RB ;	35;	4 ;	273	;   0;	0;	2;	0;	0;	6.0
+Ross          ;Barkley           ;Aston Villa      ;England             ;CM ;	27;	25;	1512;	3;	1;	0;	0;	1;	6.5
+Ashley        ;Barnes            ;Burnley          ;England             ;ST ;	31;	20;	1308;	3;	0;	4;	0;	1;	6.0
+Harvey        ;Barnes		     ;Leicester City   ;England             ;LAM;	23;	25;	1949;	9;	4;	0;	0;	2;	6.6
+Kyle          ;Bartley	         ;West Brom        ;England             ;CB ;	29;	27;	2313;	3;	1;	4;	0;	0;	6.3
+Chris         ;Basham	         ;Sheffield United ;England             ;CB ;	32;	28;	2316;	0;	1;	3;	0;	2;	6.3
+Michy         ;Batshuayi	     ;Crystal Palace   ;Belgium             ;ST ;	27;	18;	722	;   2;	1;	0;	0;	0;	6.0
+Alisson       ;Becker            ;Liverpool        ;Brazil              ;GK ;	28;	29;	2610;	0;	0;	1;	0;	1;	6.7
+Jan           ;Bednarek      	 ;Southampton      ;Poland              ;CB ;	25;	35;	3013;	1;	1;	3;	1;	2;	6.6
+Héctor        ;Bellerín      	 ;Arsenal          ;Spain               ;RB ;	26;	24;	2071;	1;	2;	8;	0;	1;	6.7
+Saïd          ;Benrahma          ;West Ham         ;Algeria             ;LW ;	25;	27;	1268;	0;	5;	0;	0;	0;	6.2
+Josh          ;Benson	  	     ;Burnley          ;England             ;CM ;	21;	6 ;	261	;   0;	0;	0;	0;	0;	6.0
+Christian     ;Benteke	         ;Crystal Palace   ;Belgium             ;ST ;	30;	27;	1569;	7;	1;	1;	0;	0;	6.5
+Steven        ;Bergwijn		     ;Tottenham Hotspur;Netherlands         ;LW ;	23;	19;	1071;	0;	3;	2;	0;	0;	6.0
+Ryan          ;Bertrand		     ;Southampton      ;England             ;LB ;	31;	29;	2599;	0;	1;	5;	0;	0;	6.1
+Yves          ;Bissouma		     ;Brighton         ;Mali                ;CDM;	24;	33;	2844;	1;	0;	7;	1;	1;	7.0
+Jayden        ;Bogle		     ;Sheffield United ;England             ;RB ;	20;	15;	1019;	2;	0;	2;	0;	0;	6.5
+Sander        ;Berge		     ;Sheffield United ;Norway              ;CM ;	23;	15;	1120;	1;	1;	4;	0;	0;	6.3
+Willian       ;Borges            ;Arsenal          ;Brazil              ;RAM;	32;	25;	1407;	1;	5;	0;	0;	0;	6.4
+Bruno         ;Fernandes         ;Manchester United;Portugal            ;CAM;	26;	34;	2917;	17;	11;	5;	0;	5;	7.3
+Jarrod        ;Bowen             ;West Ham         ;England             ;RAM;	25;	35;	2412;	8;	5;	0;	0;	1;	6.4
+Robbie        ;Brady		     ;Burnley          ;Ireland             ;LM ;	29;	19;	1055;	1;	1;	3;	0;	1;	6.1
+Rhian         ;Brewster		     ;Sheffield United ;England             ;ST ;	21;	25;	1089;	0;	0;	1;	0;	0;	5.6
+Nathan        ;Broadhead	     ;Everton          ;Wales               ;RW ;	23;	1 ;	2	;   0;	0;	0;	0;	0;	5.0
+Josh          ;Brownhill         ;Burnley          ;England             ;CM ;	25;	29;	2499;	0;	0;	2;	0;	0;	6.5
+Joe           ;Bryan		     ;Fulham           ;England             ;LB ;	27;	13;	468	;   0;	0;	2;	0;	0;	6.0
+Kean          ;Bryan		     ;Sheffield United ;England             ;CB ; 	24;	13;	1007;	1;	0;	1;	0;	0;	6.1
+Oliver        ;Burk		         ;Sheffield United ;Scotland            ;CF ;	24;	25;	1272;	1;	1;	2;	0;	0;	5.9
+Dan           ;Burn			     ;Brighton         ;England             ;LB ;	28;	24;	1790;	0;	0;	5;	0;	0;	6.5
+David         ;Button            ;West Brom        ;England             ;GK ;	32;	1 ;	90	;   0;	0;	0;	0;	0;	6.3
+Oskar         ;Buur	             ;Wolves           ;Denmark             ;RB ;	23;	1 ;	21	;   0;	0;	0;	0;	0;	6.2
+Willy         ;Caballero	     ;Chelsea          ;Argentina           ;GK ; 	39;	1 ;	90	;   0;	0;	0;	0;	0;	5.5
+Nélson        ;Semedo		     ;Wolves           ;Portugal            ;RB ;	27;	31;	2718;	0;	1;	4;	0;	1;	6.5
+Gary          ;Cahill			 ;Crystal Palace   ;England             ;CB ;	35;	17;	1530;	1;	1;	3;	0;	0;	6.2
+Tom           ;Cairney		     ;Fulham           ;Scotland            ;CM ;	30;	10;	760	;   1;	1;	2;	0;	0;	6.9
+Bernard	      ;Duarte            ;Everton          ;Brazil      		;LAM;	28;	10;	405	;   1;	0;	2;	0;	0;	6.3
+Dominic       ;Calvert-Lewin     ;Everton          ;England             ;ST ;	24;	29;	2516;	16;	0;	3;	0;	2;	6.8
+Andy          ;Carroll           ;Newcastle        ;England             ;ST ;	32;	17;	377	;   1;	0;	1;	0;	0;	5.9
+Fabio         ;Carvalho	         ;Fulham           ;England             ;CAM;	18;	1 ;	12	;   0; 	0;	0;	0;	0;	5.0
+Matty         ;Cash		         ;Aston Villa      ;England             ;RB ;	23;	27;	2332;	0;	2;	7;	0;	1;	6.4
+Kiko          ;Casilla			 ;Leeds United     ;Spain               ;GK ;	34;	1 ;	90	;   0;	0;	0;	0;	0;	6.5
+Timothy       ;Castagne		     ;Leicester City   ;Belgium             ;CDM;	25;	24;	2077;	2;	3;	1;	0;	1;	6.7
+Daniel        ;Podence		     ;Wolves           ;Portugal            ;LAM;	25;	24;	1678;	3;	2;	3;	0;	2;	6.3
+Jonny         ;Castro		     ;Wolves           ;Spain               ;CM ;	27;	7 ;	500	;   0;	0;	0;	0;	0;	6.0
+João          ;Cancelo		     ;Manchester City  ;Portugal            ;RB ;	26;	26;	2218;	1;	3;	4;	0;	2;	7.4
+Edinson       ;Cavani		     ;Manchester United;Uruguay             ;ST ;	34;	23;	1166;	9;	2;	3;	0;	1;	6.3
+Dani          ;Ceballos		     ;Arsenal          ;Spain               ;CDM;	24;	25;	1613;	0;	3;	4;	0;	1;	6.9
+Calum         ;Chambers		     ;Arsenal          ;England             ;RB ;	26;	7 ;	570	;   0;	1;	0;	0;	0;	6.5
+Ben           ;Chilwell		     ;Chelsea          ;England             ;LB ;	24;	24;	2021;	2;	5;	3;	0;	1;	6.8
+Hamza         ;Choudhury		 ;Leicester City   ;England             ;CM ; 	23;	9 ;	303	;   0;	0;	1;	0;	1;	6.7
+Andreas       ;Christensen	     ;Chelsea          ;Denmark             ;CB ;	25;	17;	1370;	0;	0;	2;	1;	0;	6.7
+Ciaran        ;Clark		     ;Newcastle        ;Ireland             ;CB ;	31;	22;	1893;	1;	0;	3;	0;	0;	6.4
+Nathaniel     ;Clyne             ;Crystal Palace   ;England             ;RB ;	30;	13;	1147;	0;	1;	2;	0;	0;	6.1
+Conor         ;Coady		     ;Wolves           ;England             ;CB ;	28;	34;	3034;	1;	0;	5;	0;	1;	6.4
+Séamus        ;Coleman		     ;Everton          ;Ireland             ;RB ;	32;	22;	1365;	0;	3;	0;	0;	1;	6.4
+Aaron         ;Connolly		     ;Brighton         ;Ireland             ;CF ;	21;	16;	747	;   2;	1;	0;	0;	0;	5.7
+Liam          ;Cooper			 ;Leeds United     ;Scotland            ;CB ;	29;	23;	2006;	1;	0;	3;	1;	2;	6.8
+Jack          ;Cork			     ;Burnley          ;England             ;CM ;	31;	12;	1006;	0;	0;	2;	0;	0;	6.2
+Matheus       ;Pereira		     ;West Brom        ;Brazil              ;CAM;	25;	31;	2402;	10;	5;	2;	1;	2;	6.7
+Vladimir      ;Coufal		     ;West Ham         ;Czech Republic      ;RB ;	28;	31;	2785;	0;	6;	3;	0;	1;	6.6
+Aaron         ;Cresswell	     ;West Ham         ;England             ;LB ;	31;	33;	2902;	0;	7;	3;	0;	2;	6.6
+Patrick       ;Cutrone		     ;Wolves           ;Italy               ;CF ; 	23;	2 ;	23	;   0;	0;	0;	0;	0;	5.0
+Thiago        ;Silva	         ;Chelsea          ;Brazil              ;CB ;	36;	20;	1667;	2;	0;	4;	0;	3;	7.2
+Willian       ;José		         ;Wolves           ;Brazil              ;ST ;	29;	14;	1003;	1;	0;	0;	0;	0;	5.9
+Rúben         ;Neves		     ;Wolves           ;Portugal            ;CM ;	24;	33;	2483;	5;	1;	7;	0;	2;	6.9
+Stuart        ;Dallas		     ;Lees United      ;Northern Ireland    ;LB ;	30;	35;	3141;	8;	2;	6;	0;	3;	6.8
+Scott         ;Dann		         ;Crystal Palace   ;England             ;CB ;	34;	14;	1260;	1;	0;	1;	0;	0;	6.3
+Karl          ;Darlow		     ;Newcastle        ;England             ;GK ;	30;	25;	2250;	0;	0;	3;	0;	1;	6.5
+Ben           ;Davies		     ;Tottenham Hotspur;Wales               ;LB ;	28;	20;	1340;	0;	1;	1;	0;	0;	6.3
+Tom           ;Davies		     ;Everton          ;England             ;CM ;	22;	23;	1326;	0;	1;	3;	0;	0;	6.3
+Keinan        ;Davis             ;Aston Villa      ;England             ;ST ;	23;	13;	168	;   1;	1;	0;	0;	0;	6.0
+Leif          ;Davis	         ;Leeds United     ;England             ;LB ;	21;	2 ;	31	;   0;	0;	0;	0;	0;	5.9
+Craig         ;Dawson	         ;West Ham         ;England             ;CB ;	31;	19;	1655;	3;	0;	3;	0;	0;	6.3
+Richarlison	  ;de Andrade        ;Everton          ;Brazil	            ;ST ;	24;	30;	2523;	6;	3;	3;	1;	2;	6.6
+Kevin         ;De Bruyne         ;Manchester City  ;Belgium             ;CAM;	29;	24;	1911;	5;	11;	1;	0;	4;	7.4
+David         ;De Gea	         ;Manchester United;Spain		        ;GK ;	30;	24;	2116;	0;	0;	0;	0;	2;	6.4
+Gabriel       ;Jesus             ;Manchester City  ;Brazil              ;ST ;	24;	26;	1883;	8;	3;	2;	0;	2;	6.6
+Fred          ;Rodrigues Santos  ;Manchester United;Brazil              ;CDM;	28;	28;	2243;	1;	0;	5;	0;	2;	7.0
+Liam          ;Delap	         ;Manchester City  ;England             ;ST ;	18;	1 ;	39	;   0;	0;	0;	0;	0;	5.8
+Fabian        ;Delph             ;Everton          ;England             ;LB ;	31;	8 ;	261	;   0;	0;	1;	0;	0;	6.1
+Leander       ;Dendoncker		 ;Wolves           ;Belgium             ;CM ;	26;	30;	2341;	1;	0;	3;	0;	0;	6.6
+Mbaye         ;Diagne			 ;West Brom        ;Senegal             ;ST ;	29;	15;	1192;	3;	2;	2;	0;	0;	6.1
+Ibrahima      ;Diallo	         ;Southampton      ;France              ;CM ;	22;	19;	896	;   0;	0;	2;	0;	0;	6.3
+Grady         ;Diangana	         ;West Brom        ;England             ;LAM;	23;	17;	1116;	1;	0;	0;	0;	0;	6.1
+Raphinha	  ;Dias Belloli      ;Leeds United     ;Brazil              ;RAM;	25;	27;	2102;	6;	7;	3;	0;	1;	6.9
+Eric          ;Dier		         ;Tottenham Hotspur;England             ;CB ;	27;	26;	2340;	0;	0;	3;	0;	0;	6.4
+Lucas         ;Digne	         ;Everton          ;France	            ;LB ;	27;	26;	2321;	0;	7;	2;	1;	0;	6.7
+Issa          ;Diop		         ;West Ham         ;France              ;CB ;	24;	16;	1377;	2;	0;	3;	0;	0;	6.4
+Moussa        ;Djénepo	         ;Southampton      ;Mali                ;CAM;	22;	26;	1149;	1;	0;	5;	0;	0;	6.0
+Matt          ;Doherty	         ;Tottenham Hotspur;Ireland 		    ;RWB;	29;	15;	1140;	0;	2;	3;	0;	1;	6.5
+Gabriel	      ;Magalhaes         ;Arsenal          ;Brazil		        ;CB ;	23;	20;	1725;	2;	0;	3;	0;	2;	6.7
+Rui           ;Patrício	         ;Wolves           ;Portugal   		    ;GK ;	33;	35;	3150;	0;	0;	1;	0;	1;	6.4
+Abdoulaye     ;Doucouré	         ;Everton          ;France              ;CM ;	28;	25;	2137;	2;	3;	6;	0;	1;	6.7
+Martin        ;Dúbravka		     ;Newcastle        ;Slovakia            ;GK ;	32;	10;	900	;   0;	0;	0;	0;	2;	6.9
+Paul          ;Dummett		     ;Newcastle        ;Wales               ;CB ;	29;	12;	986	;   1;	0;	2;	0;	0;	6.2
+Lewis         ;Dunk			     ;Brighton         ;England             ;CB ;	29;	32;	2841;	5;	0;	5;	2;	4;	6.9
+Jimmy         ;Dunne		     ;Burnley          ;Ireland             ;CB ;	23;	2 ;	180	;   1;	0;	0;	0;	0;	6.5
+Kyle          ;Edwards		     ;West Brom        ;England             ;LAM;	23;	5 ;	115	;   0;	0;	0;	0;	0;	5.9
+John          ;Egan			     ;Sheffield United ;Ireland             ;CB ;	28;	28;	2359;	0;	1;	7;	1;	0;	6.2
+Anwar         ;El Ghazi		     ;Aston Villa      ;Netherlands         ;RW ;	26;	24;	1266;	8;	0;	2;	0;	0;	6.5
+Mohamed       ;El Neny		     ;Arsenal          ;Egypt               ;CDM;	28;	21;	1362;	1;	0;	2;	0;	1;	6.7
+Jonny         ;Evans		     ;Leicester City   ;Northern Ireland    ;CB ;	33;	28;	2476;	2;	2;	7;	0;	3;	6.9
+Eberechi      ;Eze		         ;Crystal Palace   ;England             ;LM ;	22;	32;	2384;	4;	5;	3;	0;	2;	6.5
+Łukasz        ;Fabiański         ;West Ham         ;Poland              ;GK ;	36;	33;	2970;	0;	0;	2;	0;	3;	6.5
+Bernardo	  ;Silva Junior      ;Brighton         ;Brazil              ;LB ;	25;	3 ;	205	;   0;	0;	0;	0;	0;	6.1
+Federico      ;Fernández         ;Newcastle        ;Argentina           ;CB ;	32;	21;	1815;	0;	0;	4;	0;	1;	6.3
+Vítor         ;Ferreira		     ;Wolves           ;Portugal            ;CM ;	21;	17;	438	;   0;	1;	0;	0;	0;	6.2
+Sam           ;Field		     ;West Brom        ;England             ;CDM;	23;	3 ;	59	;   0;	0;	0;	0;	0;	6.2
+John          ;Flec			     ;Sheffield United ;Scotland            ;CM ;	29;	28;	2306;	0;	2;	3;	0;	0;	6.2
+Phil          ;Foden		     ;Manchester City  ;England             ;LAM;	20;	26;	1466;	7;	5;	0;	0;	0;	7.0
+Wesley        ;Fofana		     ;Leicester City   ;France              ;CB ;	20;	25;	2065;	0;	0;	6;	0;	1;	7.0
+Pablo         ;Fornals		     ;West Ham         ;Spain               ;CAM;	25;	30;	2316;	3;	3;	3;	0;	0;	6.4
+Fraser        ;Forster		     ;Southampton      ;England             ;GK ;	33;	7 ;	630	;   0;	0;	0;	0;	0;	6.1
+Timothy       ;Fosu-Mensah	     ;Manchester United;Netherlands         ;CB ;	23;	1 ;	81	;   0;	0;	1;	0;	0;	7.3
+Ryan          ;Fraser			 ;Newcastle        ;Scotland            ;LM ;	27;	18;	925	;   0;	2;	1;	0;	0;	6.0
+Ryan          ;Fredericks		 ;West Ham         ;England             ;RB ;	28;	14;	564	;   1;	1;	2;	0;	0;	6.3
+Jorginho	  ;Frello            ;Chelsea          ;Italy		        ;CDM;	29;	25;	1773;	6;	1;	1;	0;	3;	7.2
+Christian     ;Fuchs	         ;Leicester City   ;Austria             ;LB ;	35;	9 ;	702	;   0;	0;	4;	0;	0;	6.5
+Darnell       ;Furlong		     ;West Brom        ;England             ;RB ;	25;	32;	2660;	1;	3;	5;	0;	0;	6.0
+Conor         ;Gallagher	     ;West Brom        ;England             ;CAM;	21;	27;	2262;	2;	2;	10;	0;	0;	6.3
+Eric          ;Garcia			 ;Manchester City  ;Spain               ;CB ;	20;	4 ;	215	;   0;	0;	0;	0;	0;	6.5
+Dwight        ;Gayle	         ;Newcastle        ;England             ;CF ;	30;	15;	432	;   1;	1;	0;	0;	0;	5.9
+Jean-Philippe ;Gbamin            ;Everton          ;Ivory Coast         ;CM ;	25;	1 ;	11	;   0;	0;	0;	0;	0;	5.0
+Kieran        ;Gibbs	         ;West Brom        ;England             ;LB ;	31;	10;	808	;   0;	0;	1;	1;	0;	5.9
+Morgan        ;Gibbs-White	     ;Wolves           ;England             ;CM ;	21;	8 ;	239	;   1;	0;	0;	0;	0;	6.3
+Billy         ;Gilmour		     ;Chelsea          ;England             ;CM ;	19;	4 ;	214	;   0;	0;	0;	0;	0;	6.3
+Olivier       ;Giroud		     ;Chelsea          ;France              ;ST ;	34;	15;	721	;   4;	0;	1;	0;	0;	6.4
+Ben           ;Godfrey			 ;Everton          ;England             ;CB ;	23;	27;	2323;	0;	2;	4;	0;	0;	6.5
+Joe           ;Gomez		     ;Liverpool        ;England             ;CB ;	23;	7 ;	590	;   0;	0;	0;	0;	0;	6.4
+Anthony       ;Gordon		     ;Everton          ;England             ;LAM;	20;	3 ;	87	;   0;	0;	0;	0;	0;	5.9
+Demarai       ;Gray		         ;Leicester City   ;England             ;LAM;	24;	1 ;	18	;   0;	0;	0;	0;	0;	6.0
+Jack          ;Grealish		     ;Aston Villa      ;England             ;LAM;	25;	22;	1978;	6;	10;	6;	0;	5;	7.6
+Mason         ;Greenwood	     ;Manchester United;England             ;RW ;	19;	28;	1650;	6;	2;	2;	0;	1;	6.6
+Kamil         ;Grosicki		     ;West Brom        ;Poland              ;CAM;	32;	3 ;	149	;   0;	1;	0;	0;	0;	6.1
+Pascal        ;Groß			     ;Brighton         ;Germany             ;CDM;	29;	31;	2210;	3;	7;	3;	0;	0;	6.6
+Vicente       ;Guaita		     ;Crystal Palace   ;Spain               ;GK ;	34;	34;	3060;	0;	0;	2;	0;	1;	6.4
+Jóhann Berg   ;Guðmundsson       ;Burnley          ;Iceland             ;RM ;	30;	19;	1170;	2;	0;	2;	0;	0;	6.1
+Ilkay         ;Gündogan		     ;Manchester City  ;Germany             ;CM ;	30;	26;	1885;	12;	1;	1;	0;	5;	7.5
+Antwoine      ;Hackford	         ;Sheffield United ;England             ;CF ;	17;	1 ;	10	;   0;	0;	0;	0;	0;	5.0
+Sébastien     ;Haller	         ;West Ham         ;Ivory Coast         ;ST ;	26;	16;	934	;   3;	0;	0;	0;	1;	6.2
+Rekeem        ;Harper		     ;West Brom        ;England             ;CM ;	21;	2 ;	30	;   0;	0;	0;	0;	0;	6.0
+Jack          ;Harrison		     ;Leeds United     ;England             ;LAM;	24;	33;	2587;	7;	6;	2;	0;	2;	6.5
+Trezeguet     ;Hassan            ;Aston Villa      ;Egypt               ;LAM;	27;	21;	1167;	2;	1;	0;	0;	1;	6.4
+Kortney       ;Hause             ;Aston Villa      ;England             ;CB ;	25;	4 ;	360	;   1;	0;	1;	0;	0;	7.0
+Kai           ;Havertz		     ;Chelsea          ;Germany             ;CF ;	21;	25;	1432;	4;	3;	2;	0;	1;	6.5
+Isaac         ;Hayden	         ;Newcastle        ;England             ;CM ;	26;	24;	1943;	0;	0;	8;	0;	0;	6.4
+Michael       ;Hector	         ;Fulham           ;Jamaica             ;CB ;	28;	4 ;	263	;   0;	0;	2;	0;	0;	5.6
+Ahmed         ;Hegazy	         ;West Brom        ;Egypt               ;CB ;	30;	1 ;	90	;   0;	0;	0;	0;	0;	6.6
+Jordan        ;Henderson         ;Liverpool        ;England             ;CM ;	30;	21;	1707;	1;	1;	0;	0;	3;	7.2
+Dean          ;Henderson	     ;Manchester United;England             ;GK ;	24;	11;	944	;   0;	0;	2;	0;	1;	6.8
+Jeff          ;Hendrick		     ;Newcastle        ;Ireland             ;CM ;	29;	21;	1413;	2;	1;	2;	0;	1;	6.2
+Rodri	      ;Hernandez         ;Manchester City  ;Spain               ;CDM;	24;	31;	2534;	2;	1;	4;	0;	3;	7.6
+Pablo         ;Hernández         ;Leeds United     ;Spain               ;CAM;	36;	15;	347	;   0;	2;	1;	0;	0;	6.0
+Ki-Jana       ;Hoever	         ;Wolves           ;Netherlands         ;RB ;	19;	11;	481	;   0;	0;	1;	0;	0;	6.3
+Pierre Emile  ;Højbjerg	         ;Tottenham Hotspur;Denmark             ;CDM;	25;	35;	3150;	1;	3;	8;	0;	1;	7.1
+Rob           ;Holding			 ;Arsenal          ;England             ;CB ;	25;	27;	2287;	0;	1;	2;	0;	1;	6.7
+Mason         ;Holgate		     ;Everton          ;England             ;CB ;	24;	24;	2063;	1;	0;	8;	0;	1;	6.5
+Conor         ;Hourihane	     ;Aston Villa      ;Ireland             ;CM ;	30;	4 ;	227	;   1;	1;	0;	0;	1;	7.1
+Callum        ;Hudson-Odoi	     ;Chelsea          ;England             ;RW ;	20;	22;	1011;	2;	3;	0;	0;	0;	6.6
+Niall         ;Huggins		     ;Leeds United     ;Wales               ;CB ;	20;	1 ;	37	;   0;	0;	0;	0;	0;	6.1
+Odion         ;Ighalo		     ;Manchester United;Nigeria             ;ST ;	31;	1 ;	9	;   0;	0;	0;	0;	0;	5.0
+Kelechi       ;Iheanacho         ;Leicester City   ;Nigeria             ;ST ;	24;	22;	1246;	11;	2;	1;	0;	1;	6.8
+Danny         ;Ings			     ;Southampton      ;England             ;ST ;	28;	25;	1921;	10;	4;	1;	0;	0;	6.4
+João          ;Moutinho		     ;Wolves           ;Portugal            ;CM ;	34;	30;	2272;	1;	1;	4;	0;	0;	6.7
+Branislav     ;Ivanović	         ;West Brom        ;Serbia              ;CB ;	37;	13;	765	;   0;	0;	2;	0;	0;	5.9
+Alex          ;Iwobi		     ;Everton          ;Nigeria             ;RM ;	25;	28;	1493;	1;	2;	0;	0;	0;	6.3
+José          ;Izquierdo	     ;Brighton         ;Colombia            ;CDM;	28;	1 ;	8	;   0;	0;	0;	0;	0;	5.0
+Phil          ;Jagielka		     ;Sheffield United ;England             ;CB ;	38;	9 ;	518	;   0;	0;	1;	1;	0;	5.7
+Alireza       ;Jahanbakhsh	     ;Brighton         ;Iran                ;CAM;	27;	18;	351	;   0;	1;	2;	0;	0;	6.3
+Daniel        ;James	         ;Manchester United;Wales               ;CAM;	23;	14;	823	;   3;	0;	3;	0;	0;	6.3
+Reece         ;James		     ;Chelsea          ;England             ;RB ;	21;	29;	2096;	1;	2;	3;	0;	1;	6.9
+Alexandre     ;Jankewitz         ;Southampton      ;Switzerland         ;CM ;	19;	2 ;	2	;   0;	0;	0;	1;	0;	5.0
+Daniel        ;Jebbison		     ;Sheffield United ;England             ;CF	;	17;	1 ;	25	;   0;	0;	0;	0;	0;	6.0
+Raúl          ;Jiménez		     ;Wolves           ;Mexico              ;ST ;	30;	10;	825	;   4;	0;	0;	0;	2;	6.6
+Ben           ;Johnson			 ;West Ham         ;England             ;LB ;	21;	14;	518	;   1;	0;	1;	0;	0;	6.1
+Sam           ;Johnstone	     ;West Brom        ;England             ;GK ;	28;	34;	3060;	0;	1;	0;	0;	6;	6.7
+Curtis        ;Jones	         ;Liverpool        ;England             ;CM ;	20;	22;	1102;	1;	1;	2;	0;	1;	6.8
+James         ;Justin		     ;Leicester City   ;England             ;LB ;	23;	23;	2070;	2;	1;	4;	0;	0;	6.6
+Ozan          ;Kabak		     ;Liverpool        ;Turkey              ;CB ;	21;	9 ;	803	;   0;	0;	3;	0;	1;	6.7
+Aboubakar     ;Kamara	         ;Fulham           ;Mauritania          ;CF ; 	26;	11;	308	;   0;	0;	1;	1;	0;	5.6
+Harry         ;Kane			     ;Tottenham Hotspur;England             ;ST ;	27;	32;	2817;	21;	13;	1;	0;	7;	7.2
+N'Golo        ;Kanté	         ;Chelsea          ;France              ;CDM;	30;	29;	2113;	0;	2;	7;	0;	1;	6.9
+Moise         ;Kean			     ;Everton          ;Italy               ;ST ;	21;	2 ;	13	;   0;	0;	0;	0;	0;	5.0
+Michael       ;Keane	         ;Everton          ;England             ;CB ;	28;	31;	2630;	3;	1;	4;	0;	2;	6.8
+Neeskens      ;Kebano		     ;Fulham           ;Congo DR            ;LW ;	29;	5 ;	116	;   0; 	0;	0;	0;	0;	6.0
+Naby          ;Keïta		     ;Liverpool        ;Mali                ;CM ;	26;	10;	522	;   0;	0;	1;	0;	0;	6.5
+Caoimhin      ;Kelleher	         ;Liverpool        ;Ireland             ;GK ;	22;	2 ;	180	;   0;	0;	0;	0;	0;	7.0
+Jonjoe        ;Kenny	         ;Everton          ;England             ;RB ;	24;	4 ;	77	;   0;	0;	0;	0;	0;	6.1
+Reda          ;Khadra			 ;Brighton         ;Germany             ;RM ;	19;	1 ;	4	;   0;	0;	0;	0;	0;	5.0
+Max           ;Kilman			 ;Wolves           ;England             ;CB ;	23;	17;	1216;	0;	1;	4;	0;	1;	6.6
+Mateusz       ;Klich	         ;Leeds United     ;Poland              ;CAM;	30;	34;	2323;	3;	5;	6;	0;	0;	6.5
+Robin         ;Koch			     ;Leeds United     ;Germany             ;CB ;	24;	17;	1129;	0;	0;	1;	0;	0;	6.4
+Joshua        ;King			     ;Everton          ;Norway              ;ST ;	29;	11;	137	;   0;	0;	0;	0;	0;	5.5
+Sead          ;Kolašinac	     ;Arsenal          ;Bosnia & Herzegovina;LB ;	27;	1 ;	90	;   0;	0;	0;	0;	0;	6.5
+Terence       ;Kongolo		     ;Fulham           ;Netherlands         ;CB ;	27;	1 ;	90	;   0;	0;	0;	0;	0;	6.7
+Ezri          ;Konsa		     ;Aston Villa      ;England             ;CB ;	23;	32;	2835;	2;	0;	3;	0;	1;	6.4
+Cheikhou      ;Kouyaté	         ;Crystal Palace   ;Senegal             ;CB ;	31;	32;	2763;	1;	0;	2;	0;	0;	6.3
+Mateo         ;Kovačić		     ;Chelsea          ;Croatia             ;CB ;	27;	25;	1696;	0;	1;	3;	0;	3;	7.0
+Emil          ;Krafth			 ;Newcastle        ;Sweden              ;CB ;	26;	13;	1038;	0;	0;	4;	0;	0;	5.9
+Filip         ;Krovinović	     ;West Brom        ;Croatia             ;CAM;	25;	11;	542	;   0;	0;	0;	0;	0;	6.3
+Alexandre     ;Lacazette         ;Arsenal          ;France              ;ST ;	29;	29;	1907;	13;	2;	3;	0;	1;	6.5
+Adam          ;Lallana		     ;Brighton         ;England             ;CAM;	33;	27;	1483;	1;	1;	0;	0;	1;	6.4
+Erik          ;Lamela			 ;Tottenham Hotspur;Argentina           ;RAM;	29;	23;	704	;   1;	0;	5;	0;	0;	6.2
+Tariq         ;Lamptey		     ;Brighton         ;England             ;RB ;	20;	11;	890	;   1;	1;	3;	0;	1;	6.5
+Manuel        ;Lanzini		     ;West Ham         ;Argentina           ;CAM;	28;	17;	558	;   1;	1;	1;	0;	0;	6.3
+Aymeric       ;Laporte		     ;Manchester City  ;France              ;CB ;	26;	16;	1342;	0;	0;	1;	0;	0;	7.0
+Jamaal        ;Lascelles         ;Newcastle        ;England             ;CB ;	27;	19;	1628;	2;	0;	4;	0;	0;	6.2
+Maxime        ;Le Marchand	     ;Fulham           ;France              ;CB ;	31;	2 ;	122	;   0;	0;	2;	0;	0;	6.4
+Mario         ;Lemina		     ;Fulham           ;Gabon               ;CDM;	27;	26;	1525;	1;	0;	3;	0;	1;	6.5
+Bernd         ;Leno			     ;Arsenal          ;Germany             ;GK ;	29;	32;	2861;	0;	0;	0;	1;	0;	6.5
+Khanya        ;Leshabela         ;Leicester City   ;South Africa        ;CM ;	21;	1 ;	9	;   0;	0;	0;	0;	0;	5.0
+Jamal         ;Lewis		     ;Newcastle        ;Northern Ireland    ;LB ;	23;	23;	1828;	0;	1;	4;	0;	0;	6.0
+Victor        ;Lindelof		     ;Manchester United;Sweden              ;CB ;	26;	27;	2406;	1;	1;	0;	0;	0;	6.7
+Jesse         ;Lingard		     ;West Ham         ;England             ;CAM;	28;	13;	1156;	9;	3;	3;	0;	4;	7.2
+Jake          ;Livermore	     ;West Brom        ;England             ;CDM;	31;	17;	1230;	0;	0;	2;	1;	0;	5.9
+Diego         ;Llorente		     ;Leeds United     ;Spain               ;CB ;	27;	13;	1070;	1;	0;	1;	0;	2;	6.8
+Hugo          ;Lloris			 ;Tottenham Hotspur;France              ;GK ;   34;	35;	3150;	0;	0;	0;	0;	1;	6.6
+Giovani       ;Lo Celso	         ;Tottenham Hotspur;Argentina           ;CAM;	25;	17;	880	;   1;	1;	5;	0;	0;	6.3
+Ruben         ;Loftus-Cheek	     ;Fulham           ;England             ;CM ;	25;	28;	1886;	1;	0;	3;	0;	0;	6.2
+Shane         ;Long			     ;Southampton      ;Ireland             ;ST ;	34;	11;	201	;   0;	0;	0;	0;	0;	5.8
+Kevin         ;Long			     ;Burnley          ;Ireland             ;CB ;	30;	8;	636	;   0;	0;	2;	0;	0;	6.1
+Sean          ;Longstaff	     ;Newcastle        ;England             ;CM ;	23;	19;	1291;	0;	1;	2;	0;	1;	6.2
+Matthew       ;Longstaff         ;Newcastle        ;England             ;CM ;	21;	5 ;	377	;   0;	0;	0;	0;	0;	6.2
+Ademola       ;Lookman		     ;Fulham           ;England             ;CAM;	23;	30;	2486;	4;	4;	4;	0;	1;	6.6
+Max           ;Lowe			     ;Sheffield United ;England             ;RB ;	23;	8 ;	552	;   0;	0;	1;	0;	0;	5.8
+Matthew       ;Lowton		     ;Burnley          ;England             ;RB ;	31;	30;	2700;	1;	1;	5;	0;	2;	6.4
+John          ;Lundstram	     ;Sheffield United ;England             ;CM ;	27;	28;	2031;	0;	2;	8;	1;	0;	6.1
+Robert        ;Sánchez		     ;Brighton         ;Spain               ;GK ;	23;	24;	2160;	0;	0;	1;	0;	1;	6.5
+Alexis        ;Mac Allister	     ;Brighton         ;Argentina           ;CAM;	22;	19;	959	;   1;	1;	1;	0;	0;	6.1
+James         ;Maddison		     ;Leicester City   ;England             ;CAM;	24;	28;	1958;	8;	5;	4;	0;	2;	6.8
+Harry         ;Maguire		     ;Manchester United;England             ;CB ;	29;	34;	3048;	2;	1;	11;	0;	1;	6.9
+Riyad         ;Mahrez		     ;Manchester City  ;Algeria             ;RW ;	30;	25;	1800;	9;	4;	0;	0;	1;	7.2
+Ainsley       ;Maitland-Niles    ;West Brom        ;England             ;RB ;	23;	23;	1549;	0;	0;	2;	0;	0;	6.4
+Josh          ;Maja			     ;Fulham           ;Nigeria             ;ST ;	22;	12;	734	;   3;	0;	0;	0;	1;	6.3
+Sadio         ;Mané			     ;Liverpool        ;Senegal             ;LW ;	29;	31;	2526;	9;	5;	3;	0;	3;	6.9
+Javier        ;Manquillo         ;Newcastle        ;Spain               ;LB ;	27;	13;	826	;   0;	0;	1;	0;	0;	6.2
+Marçal	      ;de Oliveira       ;Wolves           ;Brazil              ;LB ;	32; 12;	613	;   0;	0;	2;	0;	0;	6.2
+Solomon       ;March             ;Brighton         ;England             ;CDM;	26;	21;	1674;	2;	1;	0;	0;	2;	6.5
+Pablo         ;Marí		         ;Arsenal          ;Spain               ;CB ;	27;	9 ;	810	;   0;	0;	2;	0;	0;	6.5
+Allan         ;Marques           ;Everton          ;Brazil              ;CM ;	30;	20;	1692;	0;	0;	6;	0;	0;	6.5
+Anthony       ;Martial		     ;Manchester United;France              ;ST ;	25;	12;	1486;	4;	3;	0;	1;	0;	6.6
+Gabriel       ;Martinelli	     ;Arsenal          ;Brazil              ;LAM;	19;	12;	571	;   1;	1;	0;	0;	1;	6.3
+Emiliano      ;Martínez	         ;Aston Villa      ;Argentina           ;GK ;   28;	34;	3060;	0;	0;	0;	0;	5;	6.8
+Arthur        ;Masuaku		     ;West Ham         ;Congo DR            ;LB ;	27;	12;	1011;	0;	2;	2;	0;	0;	6.5
+Juan          ;Mata			     ;Manchester United;Spain               ;CAM;	33;	7 ;	339	;   0;	2;	0;	0;	0;	6.3
+Jean-Philippe ;Mateta            ;Crystal Palace   ;France              ;ST ;	23;	6 ;	206	;   1;	0;	0;	0;	0;	5.7
+Nemanja       ;Matić	         ;Manchester United;Serbia              ;CDM;	32;	17;	915	;   0;	0;	2;	0;	0;	7.0
+Joël          ;Matip		     ;Liverpool        ;Cameroon            ;CB ;	29;	10;	693	;   1;	2;	2;	0;	1;	7.1
+Neal          ;Maupay			 ;Brighton         ;France              ;CF ;	24;	33;	2519;	8;	2;	1;	1;	1;	6.3
+James         ;McArthur		     ;Crystal Palace   ;Scotland            ;CM ;	33;	18;	1471;	0;	2;	3;	0;	1;	6.7
+Oliver        ;McBurnie		     ;Sheffield United ;Scotland            ;CF ;	24;	23;	1316;	1;	0;	2;	0;	0;	6.1
+James         ;McCarthy		     ;Crystal Palace   ;Ireland             ;CM ;	30;	13;	580	;   0;	0;	1;	0;	0;	6.1
+Alex          ;McCarthy		     ;Southampton      ;England             ;GK ;	31;	27;	2430;	0;	0;	2;	0;	1;	6.2
+John          ;McGinn			 ;Aston Villa      ;Scotland            ;CDM;	26;	33;	2970;	2;	5;	8;	0;	0;	6.6
+David         ;McGoldrick	     ;Sheffield United ;Ireland             ;ST ;	33;	32;	2132;	7;	1;	7;	0;	2;	6.3
+Dwight        ;McNeil		     ;Burnley          ;England             ;LM ;	21;	32;	2751;	2;	5;	1;	0;	1;	6.4
+Scott         ;McTominay	     ;Manchester United;Scotland            ;CDM;	24;	30;	1973;	4;	1;	2;	0;	2;	7.0
+Benjamin      ;Mee		         ;Burnley          ;England             ;CB ;	31;	27;	2424;	2;	0;	3;	0;	1;	6.3
+Benjamin      ;Mendy             ;Manchester City  ;France              ;LB ;	26;	12;	939	;   2;	1;	2;	0;	0;	6.4
+Nampalys      ;Mendy	         ;Leicester City   ;Senegal             ;CDM;	28;	22;	1388;	0;	1;	5;	0;	0;	6.5
+Edouard       ;Mendy	         ;Chelsea          ;Senegal             ;GK ;	29;	29;	2610;	0;	0;	1;	0;	1;	6.5
+Illan         ;Meslier		     ;Leeds United     ;France              ;GK ;	21;	34;	3060;	0;	0;	0;	0;	4;	6.8
+Luka          ;Milivojević	     ;Crystal Palace   ;Serbia              ;CM ;	30;	30;	2298;	1;	1;	8;	1;	1;	6.5
+James         ;Milner		     ;Liverpool        ;England             ;CM ;	35;	24;	1045;	0;	1;	2;	0;	0;	6.6
+Yerry         ;Mina			     ;Everton          ;Colombia            ;CB ;	26;	23;	1849;	2;	0;	2;	0;	2;	6.8
+Takumi        ;Minamino		     ;Liverpool        ;Japan               ;CAM;	26;	16;	775	;   3;	0;	1;	0;	0;	6.2
+Tyrone        ;Mings	         ;Aston Villa      ;England             ;CB ;	28;	33;	2924;	2;	2;	5;	0;	0;	6.4
+Tyrick        ;Mitchell		     ;Crystal Palace   ;England             ;LB ;	21;	15;	1350;	0;	0;	1;	0;	0;	6.2
+Aleksandar    ;Mitrović	         ;Fulham           ;Serbia              ;ST ;	26;	26;	1299;	3;	3;	3;	0;	2;	6.4
+Jakub         ;Moder		     ;Brighton         ;Poland              ;CDM;	22;	9 ;	376	;   0;	0;	0;	0;	0;	6.1
+Wesley	      ;Moraes            ;Aston Villa      ;Brazil              ;ST ;	24;	2 ;	13	;   0;	0;	0;	0;	0;	5.0
+David         ;Luiz	             ;Chelsea          ;Brazil              ;CB ;	34;	20;	1396;	1;	0;	1;	1;	1;	6.3
+Rodrigo	      ;Moreno            ;Leeds United     ;Spain               ;ST ;	30;	23;	1132;	4;	1;	3;	0;	0;	6.2
+Wes           ;Morgan		     ;Leicester City   ;Jamaica             ;CB ;	37;	3 ;	15	;   0;	0;	0;	0;	0;	5.0
+Bernardo      ;Silva             ;Manchester City  ;Portugal            ;CAM;	26;	24;	1903;	2;	6;	4;	0;	2;	7.1
+Mason         ;Mount	         ;Chelsea          ;England             ;CAM;	22;	33;	2622;	6;	5;	2;	0;	4;	7.1
+Lys           ;Mousset		     ;Sheffield United ;France              ;CF ;	25;	11;	289	;   0;	0;	0;	0;	0;	5.6
+Joel          ;Mumbongo	         ;Burnley          ;Sweden              ;ST ;	22;	4 ;	36	;   0;	0;	1;	0;	0;	5.0
+Jacob         ;Murphy	         ;Newcastle        ;England             ;RM ;	26;	23;	1351;	2;	2;	3;	0;	0;	6.0
+Shkodran      ;Mustafi           ;Arsenal          ;Germany             ;CB ;	29;	3 ;	44	;   0;	0;	0;	0;	0;	6.5
+Marvelous     ;Nakamba	         ;Aston Villa      ;Zimbabwe            ;CM ;	26;	11;	570	;   0;	0;	2;	0;	0;	6.5
+Iliman        ;Ndiaye		     ;Sheffield United ;France              ;CM ;	21;	1 ;	11	;   0;	0;	0;	0;	0;	5.0
+Wilfred       ;Ndidi	         ;Leicester City   ;Nigeria             ;CDM;	24;	23;	1909;	1;	3;	5;	0;	3;	7.3
+Tanguy        ;Ndombèlé		     ;Tottenham Hotspur;France              ;CM ;	24;	31;	2084;	3;	2;	3;	0;	0;	6.6
+Reiss         ;Nelson		     ;Arsenal          ;England             ;CAM;	21;	2 ;	69	;   0;	0;	0;	0;	0;	5.9
+Pedro         ;Neto			     ;Wolves           ;Portugal            ;CAM;	21;	31;	2560;	5;	6;	4;	0;	3;	6.9
+João          ;Virgínia		     ;Everton          ;Portugal            ;GK ;	21;	1 ;	47	;   0;	0;	0;	0;	0;	7.1
+Eddie         ;Nketiah		     ;Arsenal          ;England             ;ST ;	21;	17;	414	;   2;	1;	0;	0;	0;	6.2
+Niels         ;Nkounkou		     ;Everton          ;France              ;LB ;	20;	1 ;	69	;   0;	0;	1;	0;	0;	5.7
+Dan           ;Nlundulu		     ;Southampton      ;England             ;ST ;	22;	13;	98	;   0;	0;	0;	0;	0;	5.8
+Mark          ;Noble		     ;West Ham         ;England             ;CDM;	34;	20;	699	;   0;	0;	1;	0;	0;	6.3
+Oliver        ;Norwood		     ;Sheffield United ;Northern Ireland    ;CM ;	30;	29;	1955;	0;	0;	5;	0;	0;	6.3
+Jack          ;O'Connell	     ;Sheffield United ;England             ;LB ;	27;	2 ;	180	;   0;	0;	0;	0;	0;	6.0
+Dara          ;O'Shea			 ;West Brom        ;Ireland             ;CB ;	22;	27;	2043;	0;	0;	3;	0;	0;	6.0
+Michael       ;Obafemi		     ;Southampton      ;Ireland             ;ST ;	20;	2 ;	37	;   0;	0;	0;	0;	0;	5.5
+Martin        ;Odegaard		     ;Arsenal          ;Norway              ;CAM;	22;	11;	665	;   1;	0;	0;	0;	1;	6.4
+Denis         ;Odoi			     ;Fulham           ;Belgium             ;CB ;	32;	3 ;	270	;   0;	0;	1;	0;	0;	5.8
+Angelo        ;Ogbonna		     ;West Ham         ;Italy               ;CB;	32;	25;	2223;	2;	0;	4;	0;	0;	6.4
+Robin         ;Olsen		     ;Everton          ;Sweden              ;GK ;	31;	7 ;	630	;   0;	0;	1;	0;	1;	6.6
+Josh          ;Onomah			 ;Fulham           ;England             ;CAM;	24;	8 ;	180	;   0;	0;	1;	0;	0;	5.8
+Divock        ;Origi	         ;Liverpool        ;Belgium             ;CF ;	26;	9 ;	181	;   0;	0;	0;	0;	0;	5.9
+Ben           ;Osborn			 ;Sheffield United ;England             ;CM ;	26;	21;	1364;	1;	0;	1;	0;	0;	6.2
+Owen          ;Otasowie	         ;Wolves           ;USA                 ;CM ;	20;	6 ;	185	;   0;	1;	1;	0;	0;	6.4
+Alex          ;Oxlade-Chamberlain;Liverpool        ;England             ;CM ;	27;	11;	235	;   0;	1;	0;	0;	0;	5.8
+Emerson	      ;Palmieri          ;Chelsea          ;Italy               ;LB ;	26;	2 ;	88	;   0;	0;	0;	0;	0;	6.9
+Thomas        ;Partey	         ;Arsenal          ;Ghana               ;CM ;	27;	21;	1278;	0;	2;	4;	0;	0;	6.7
+Bailey        ;Peacock-Farrell	 ;Burnley          ;Northern Ireland    ;GK ;	24;	3 ;	270	;   0;	0;	0;	0;	0;	5.4
+Lee           ;Peltier			 ;West Brom        ;England             ;RB ;	34;	4 ;	229	;   0;	0;	1;	0;	0;	5.3
+Nicolas       ;Pépé		         ;Arsenal          ;Ivory Coast         ;RW ;	25;	27;	1430;	6;	1;	1;	1;	1;	6.4
+Ayoze         ;Pérez		     ;Leicester City   ;Spain               ;CAM;	27;	22;	1166;	2;	1;	1;	0;	0;	6.2
+Matt          ;Phillips		     ;West Brom        ;Scotland            ;CAM;	30;	30;	1556;	2;	1;	1;	0;	0;	6.0
+Kalvin        ;Phillips		     ;Leeds United     ;England             ;CDM;	25;	26;	2204;	0;	2;	7;	0;	0;	6.8
+Nathaniel     ;Phillips	         ;Liverpool        ;England             ;CB ;	24;	13;	1094;	0;	0;	2;	0;	0;	6.8
+Jordan        ;Pickford		     ;Everton          ;England             ;GK ;	27;	27;	2383;	0;	0;	1;	0;	1;	6.5
+Erik          ;Pieters		     ;Burnley          ;Netherlands         ;LB ;	32;	20;	1262;	0;	1;	1;	0;	0;	6.1
+Paul          ;Pogba		     ;Manchester United;France              ;CDM;	28;	24;	1716;	3;	3;	3;	0;	4;	7.0
+Nick          ;Pope			     ;Burnley          ;England             ;GK ;	29;	31;	2790;	0;	0;	1;	0;	6;	6.7
+Ian Carlo     ;Poveda	         ;Leeds United     ;England             ;RW ;	21;	13;	332	;   0;	0;	0;	0;	0;	5.9
+Dennis        ;Praet	         ;Leicester City   ;Belgium             ;CAM;	26;	15;	723	;   1;	1;	0;	0;	0;	6.1
+Davy          ;Pröpper		     ;Brighton         ;Netherlands         ;CM ;	29;	7 ;	210	;   0;	0;	0;	0;	0;	6.0
+Christian     ;Pulisic	         ;Chelsea          ;USA                 ;LW ;	22;	24;	1465;	4;	1;	2;	0;	1;	6.6
+Aaron         ;Ramsdale		     ;Sheffield United ;England             ;GK ;	22;	35;	3150;	0;	0;	1;	0;	1;	6.4
+Jacob         ;Ramsey		     ;Aston Villa      ;England             ;CAM;	19;	19;	495	;   0;	0;	0;	0;	0;	5.9
+Kayne         ;Ramsey		     ;Southampton      ;England             ;RB ;	20;	1 ;	90	;   0;	0;	1;	0;	0;	4.6
+Darren        ;Randolph		     ;West Ham         ;Ireland             ;GK ;	33;	2 ;	180	;   0;	0;	0;	0;	0;	6.3
+Marcus        ;Rashford		     ;Manchester United;England             ;LW ;	23;	34;	2785;	10;	9;	4;	0;	1;	6.9
+Tim           ;Ream			     ;Fulham           ;USA                 ;CB ;	33;	5 ;	450	;   0;	0;	0;	0;	0;	6.3
+Nathan        ;Redmond		     ;Southampton      ;England             ;LM ;	27;	25;	1440;	2;	2;	1;	0;	1;	6.2
+Harrison      ;Reed		         ;Fulham           ;England             ;CDM;	26;	29;	2127;	0;	2;	5;	0;	1;	6.7
+Sergio        ;Reguilon		     ;Tottenham Hotspur;Spain               ;LB ;	24;	24;	1979;	0;	3;	5;	0;	1;	6.4
+Bobby         ;Reid			     ;Fulham           ;Jamaica             ;CAM;	28;	29;	2045;	5;	0;	7;	0;	0;	6.1
+Declan        ;Rice			     ;West Ham         ;England             ;CDM;	22;	29;	2610;	1;	1;	2;	0;	0;	7.0
+Lewis         ;Richardson	     ;Burnley          ;England             ;CM ;	18;	2 ;	2	;   0;	0;	0;	0;	0;	5.0
+Jaïro         ;Riedewald	     ;Crystal Palace   ;Netherlands         ;CM ;	24;	30;	1627;	2;	0;	3;	0;	1;	6.2
+Matt          ;Ritchie		     ;Newcastle        ;Scotland            ;LB ;	31;	15;	1087;	0;	2;	1;	0;	0;	6.2
+Tyler         ;Roberts		     ;Leeds United     ;Wales               ;CAM;	22;	24;	1292;	0;	2;	3;	0;	0;	6.0
+Andrew        ;Robertson         ;Liverpool        ;Scotland            ;LB ;   27;	34;	3026;	1;	5;	2;	0;	1;	6.9
+Jack          ;Robinson		     ;Sheffield United ;England             ;CB ;	27;	8 ;	606	;   0;	0;	2;	0;	0;	6.1
+Callum        ;Robinson		     ;West Brom        ;Ireland             ;ST ;	26;	27;	1506;	5;	0;	0;	0;	0;	6.0
+Antonee       ;Robinson	         ;Fulham           ;USA                 ;LB ;	23;	27;	2070;	0;	0;	4;	1;	0;	6.5
+Hal           ;Robson-Kanu		 ;West Brom        ;Wales               ;ST ;	31;	16;	345	;   0;	0;	2;	0;	0;	5.5
+Marek         ;Rodák		     ;Fulham           ;Slovakia            ;GK ;	24;	1 ;	90	;   0;	0;	0;	0;	0;	5.6
+Joe           ;Rodon		     ;Tottenham Hotspur;Wales               ;CB ;	23;	11;	729	;   0;	0;	0;	0;	0;	6.6
+Lucas         ;Moura		     ;Tottenham Hotspur;Brazil              ;RAM;	28;	29;	1380;	3;	4;	1;	0;	2;	6.2
+Jay           ;Rodriguez	     ;Burnley          ;England             ;ST ;	31;	28;	1186;	1;	2;	3;	0;	0;	6.0
+James         ;Rodríguez	     ;Everton          ;Colombia            ;CAM;	29;	22;	1698;	6;	4;	3;	0;	2;	7.0
+Oriol         ;Romeu		     ;Southampton      ;Spain               ;CM ;	29;	20;	1737;	1;	1;	6;	0;	1;	6.8
+Fernandinho	  ;Luiz              ;Manchester City  ;Brazil              ;CB ;	36;	19;	1057;	0;	0;	5;	0;	1;	7.1
+Antonio       ;Rüdiger	         ;Chelsea          ;Germany             ;CB ;	28;	17;	1530;	0;	0;	0;	0;	0;	7.2
+Rúnar Alex    ;Rúnarsson         ;Arsenal          ;Iceland             ;GK ;	26;	1 ;	15	;   0;	0;	0;	0;	0;	5.0
+Maty          ;Ryan		         ;Arsenal          ;Australia           ;GK ;	29;	14;	1260;	0;	0;	1;	0;	1;	6.2
+Allan         ;Saint-Maximin     ;Newcastle        ;France              ;LM ;	24;	22;	1342;	3;	4;	0;	0;	2;	6.5
+Romain        ;Saïss	         ;Wolves           ;Morocco             ;CB ; 	31;	25;	2228;	3;	0;	2;	0;	2;	6.6
+Bukayo        ;Saka		         ;Arsenal          ;England             ;RAM;	19;	29;	2415;	5;	3;	1;	0;	0;	6.7
+Mamadou       ;Sakho             ;Crystal Palace   ;France              ;CB ;	31;	4;	275	;   0;	0;	0;	0;	0;	5.9
+Mohamed       ;Salah             ;Liverpool        ;Egypt               ;RW ;	28;	33;	2722;	20;	4;	0;	0;	4;	7.1
+Mohammed      ;Salisu		     ;Southampton      ;Ghana               ;CB ;	22;	8 ;	527	;   0;	0;	0;	0;	0;	6.1
+Adrián	      ;Del Castillo      ;Liverpool        ;Spain               ;GK ;	34;	3 ;	270	;   0;	0;	0;	0;	0;	5.7
+Davinson      ;Sánchez	         ;Tottenham Hotspur;Colombia            ;CB ;	24;	17;	1396;	0;	0;	1;	0;	0;	6.4
+Morgan        ;Sanson		     ;Aston Villa      ;France              ;CM ;	26;	9 ;	291	;   0;	0;	3;	0;	0;	6.1
+Ederson	      ;Moraes            ;Manchester City  ;Brazil              ;GK ;	27;	34;	3060;	0;	1;	3;	0;	0;	6.5
+Rúben         ;Dias	             ;Manchester City  ;Portugal            ;CB ;	23;	30;	2665;	1;	0;	3;	0;	2;	7.2
+Romaine       ;Sawyers	         ;West Brom        ;St.Kitts & Nevis    ;CDM;	29;	19;	1490;	0;	0;	2;	0;	0;	6.2
+Fabian        ;Schär	         ;Newcastle        ;Switzerland         ;CB ;	29;	17;	1237;	0;	0;	4;	1;	0;	6.1
+Jeffrey       ;Schlupp	         ;Crystal Palace   ;Ghana               ;CM ;	28;	23;	1189;	2;	3;	2;	0;	0;	6.2
+Kasper        ;Schmeichel        ;Leicester City   ;Norway              ;GK ;	34;	35;	3150;	0;	0;	0;	0;	3;	6.4
+Jamie         ;Shackleton	     ;Leeds United     ;England             ;CAM;	21;	13;	453	;   0;	0;	0;	0;	0;	6.1
+Xherdan       ;Shaqiri		     ;Liverpool        ;Switzerland         ;CAM;	29;	13;	520	;   0;	2;	2;	0;	0;	6.3
+Billy         ;Sharp		     ;Sheffield United ;England             ;ST ;	35;	16;	729	;   3;	0;	1;	0;	0;	5.8
+Luke          ;Shaw			     ;Manchester United;England             ;LB ;	25;	30;	2475;	1;	5;	7;	0;	0;	6.9
+Jonjo         ;Shelvey		     ;Newcastle        ;England             ;CM ;	29;	27;	2347;	1;	2;	6;	0;	0;	6.4
+Shola         ;Shoretire         ;Manchester United;England             ;CF ;	17;	1 ;	1	;   0;	0;	0;	0;	0;	5.0
+Gylfi         ;Sigurdsson	     ;Everton          ;Iceland             ;CAM;	31;	32;	1997;	6;	4;	1;	0;	2;	6.5
+Moussa        ;Sissoko		     ;Tottenham Hotspur;France              ;CDM;	31;	24;	1575;	0;	0;	3;	0;	1;	6.4
+Islam         ;Slimani		     ;Leicester City   ;Algeria             ;CF ;	32;	1 ;	19	;   0;	0;	0;	0;	0;	5.9
+William       ;Smallbone         ;Southampton      ;Ireland             ;RM ;	21;	3 ;	173	;   0;	0;	0;	0;	0;	5.9
+Emile         ;Smith Rowe	     ;Arsenal          ;England             ;CAM;	20;	17;	1195;	1;	4;	0;	0;	0;	6.5
+Robert        ;Snodgrass         ;West Brom        ;Scotland            ;RM ;	33;	11;	529	;   0;	0;	2;	0;	0;	6.2
+Douglas       ;Luiz		         ;Aston Villa      ;Brazil              ;CM ;	23;	30;	2593;	0;	2;	9;	0;	0;	6.5
+Fábio         ;Silva		     ;Wolves           ;Portugal            ;ST ;	18;	29;	1091;	4;	2;	2;	0;	0;	6.0
+Son           ;Heungmin		     ;Tottenham Hotspur;South Korea         ;LW ;	28;	34;	2856;	17;	10;	0;	0;	1;	7.0
+Tomáš         ;Souček		     ;West Ham         ;Czech Republic      ;CDM;	26;	35;	3149;	9;	1;	7;	1;	4;	7.0
+Çağlar        ;Söyüncü		     ;Leicester City   ;Turkey              ;CB ;	24;	20;	1545;	0;	0;	2;	0;	0;	6.7
+Zack          ;Steffen		     ;Manchester City  ;USA                 ;GK ;	26;	1 ;	90	;   0;	0;	0;	0;	0;	6.1
+Jack          ;Stephens		     ;Southampton      ;England             ;CB ;	27;	15;	1268;	0;	0;	2;	0;	2;	6.4
+Dale          ;Stephens		     ;Burnley          ;England             ;CM ;	31;	7 ;	259	;   0;	0;	1;	0;	0;	6.0
+Raheem        ;Sterling		     ;Manchester City  ;England             ;LW ;	26;	29;	2356;	10;	6;	3;	0;	2;	7.1
+Enda          ;Stevens		     ;Sheffield United ;Ireland             ;LM ;	30;	27;	2430;	0;	0;	5;	0;	0;	6.2
+John          ;Stones			 ;Manchester City  ;England             ;CB ;	26;	20;	1753;	4;	0;	0;	1;	2;	7.4
+Pascal        ;Struijk		     ;Leeds United     ;Netherlands         ;CB ;	21;	24;	1919;	1;	0;	2;	0;	1;	6.6
+Japhet        ;Tanganga		     ;Tottenham Hotspur;England             ;CB ;	22;	4 ;	316	;   0;	0;	1;	0;	0;	6.2
+Matt          ;Targett		     ;Aston Villa      ;England             ;LB ;	25;	34;	3045;	0;	1;	7;	0;	0;	6.6
+James         ;Tarkowski	     ;Burnley          ;England             ;CB ;	28;	32;	2880;	1;	0;	6;	0;	0;	6.4
+Percy         ;Tau			     ;Brighton         ;South Africa        ;CAM;	26;	2;	85	;   0;	0;	0;	0;	0;	5.8
+Fabinho	      ;Tavares           ;Liverpool        ;Brazil              ;CM ;	27;	26;	2206;	0;	0;	6;	0;	1;	7.0
+Sidnei        ;Tavares	         ;Leicester City   ;Portugal            ;CDM;	19;	2 ;	85	;   0;	0;	0;	0;	0;	6.0
+André         ;Gomes	         ;Everton          ;Portugal            ;CM ;	27;	25;	1530;	0;	1;	3;	0;	0;	6.4
+Neil          ;Taylor		     ;Aston Villa      ;Wales               ;LB ;	32;	1 ;	15	;   0;	0;	1;	0;	0;	5.0
+Charlie       ;Taylor	         ;Burnley          ;England             ;LB ;	27;	25;	2068;	0;	1;	1;	0;	0;	6.2
+Allan         ;Tchaptchet        ;Southampton      ;France              ;CB ;   19;	1 ;	12	;   0;	0;	0;	0;	0;	5.0
+Diogo         ;Jota		         ;Liverpool        ;Portugal            ;CF ;	24;	17;	1038;	8;	0;	2;	0;	1;	6.7
+Nathan        ;Tella             ;Southampton      ;England             ;LM ;	21;	15;	611	;   0;	0;	2;	0;	0;	5.8
+Alex          ;Telles		     ;Manchester United;Portugal            ;LB ;	28;	7 ;	512	;   0;	2;	0;	0;	0;	6.8
+Kenny         ;Tete		         ;Fulham           ;Netherlands         ;CB ; 	25;	18;	1248;	0;	1;	2;	0;	0;	6.4
+Luke          ;Thomas		     ;Leicester City   ;England             ;LB ;	19;	11;	702	;   0;	0;	2;	0;	0;	6.0
+Youri         ;Tielemans         ;Leicester City   ;Belgium             ;CM ;	24;	35;	3088;	6;	3;	6;	0;	3;	7.0
+Kieran        ;Tierney	         ;Arsenal          ;Scotland            ;LB ;	23;	24;	2043;	1;	2;	4;	0;	1;	6.5
+James         ;Tomkins	         ;Crystal Palace   ;England             ;CB ;	32;	5 ;	387	;   0;	0;	1;	0;	0;	6.0
+Fikayo        ;Tomori	         ;Chelsea          ;England             ;CB ;	23;	1 ;	44	;   0;	0;	0;	0;	0;	6.6
+Ferrán        ;Torres	         ;Manchester City  ;Spain               ;CF ;	21;	21;	1186;	4;	2;	1;	0;	0;	6.3
+Cenk          ;Tosun	         ;Everton          ;Turkey              ;ST ;	29;	5 ;	43	;   0;	0;	1;	0;	0;	5.2
+Andros        ;Townsend	         ;Crystal Palace   ;England             ;RW ;	29;	31;	1988;	1;	4;	0;	0;	0;	6.4
+Conor         ;Townsend	         ;West Brom        ;England             ;LB ;	27;	22;	1965;	0;	2;	0;	0;	2;	6.4
+Bertrand      ;Traoré	         ;Aston Villa      ;Burkina Faso        ;RW ;	25;	32;	2035;	6;	5;	0;	0;	1;	6.4
+Adama         ;Traoré	         ;Wolves           ;Spain               ;RW ;	25;	34;	2436;	2;	2;	4;	0;	2;	6.4
+Leandro       ;Trossard          ;Brighton         ;Belgium             ;CAM;	26;	32;	2429;	4;	5;	2;	0;	2;	6.5
+Kostas        ;Tsimikas	         ;Liverpool        ;Greece              ;LB ;	24;	1 ;	5	;   0;	0;	0;	0;	0;	5.0
+Axel          ;Tuanzebe	         ;Manchester United;England             ;CB ;	23;	6 ;	130	;   0;	0;	2;	0;	0;	6.4
+Cengiz        ;Ünder	         ;Leicester City   ;Turkey              ;CAM;	23;	9 ;	274	;   0;	2;	0;	0;	0;	6.0
+Yan           ;Valery		     ;Southampton      ;France              ;RB ;	22;	3 ;	101	;   0;	0;	0;	0;	0;	6.1
+Patrick       ;van Aanholt       ;Crystal Palace   ;Netherlands         ;LB ;	30;	21;	1774;	0;	1;	2;	0;	1;	6.4
+Donny         ;van de Beek	     ;Manchester United;Netherlands         ;CM ;	24;	16;	327	;   1;	1;	1;	0;	0;	6.2
+Virgil        ;van Dijk		     ;Liverpool        ;Netherlands         ;CB ;	29;	5 ;	371	;   1;	0;	1;	0;	0;	6.4
+Jamie         ;Vardy		     ;Leicester City   ;England             ;ST ;	34;	31;	2584;	13;	9;	1;	0;	2;	6.5
+Joël          ;Veltman		     ;Brighton         ;Netherlands         ;CB ;	29;	28;	2281;	1;	1;	3;	0;	1;	6.5
+Jannik        ;Vestergaard	     ;Southampton      ;Denmark             ;CB ;	28;	26;	2213;	3;	0;	2;	1;	1;	6.7
+Ruben         ;Vinagre		     ;Wolves           ;Portugal            ;CM ;	22;	2 ;	172	;   0;	0;	0;	0;	0;	5.9
+Jake          ;Vokins			 ;Southampton      ;England             ;LB ;	21;	1 ;	67	;   0;	0;	0;	0;	0;	5.6
+Matěj         ;Vydra		     ;Burnley          ;Czech Republic      ;CF ;	29;	24;	1178;	3;	1;	0;	0;	0;	6.0
+Aaron         ;Wan-Bissaka	     ;Manchester United;England             ;RB ;	23;	32;	2880;	2;	3;	3;	0;	2;	6.9
+Theo          ;Walcott		     ;Everton          ;England             ;RM ;	32;	20;	1549;	2;	3;	0;	0;	1;	6.1
+Kyle          ;Walker			 ;Manchester City  ;England             ;RB ;	30;	22;	1766;	1;	1;	1;	0;	1;	6.9
+Kyle          ;Walker-Peters     ;Southampton      ;England             ;RB ;	24;	26;	2319;	0;	1;	4;	0;	0;	6.5
+Joel          ;Ward			     ;Crystal Place    ;England             ;RB ;	31;	22;	1895;	0;	1;	4;	0;	1;	6.3
+James         ;Ward-Prowse	     ;Southampton      ;England             ;CM ;	26;	34;	3060;	8;	6;	5;	0;	2;	7.0
+Ollie         ;Watkins		     ;Aston Villa      ;England             ;ST ;	25;	34;	3058;	13;	4;	3;	0;	3;	6.8
+Caleb         ;Watts		     ;Southampton      ;Australia           ;CM ;	19;	3 ;	36	;   0;	0;	1;	0;	0;	5.4
+Adam          ;Webster		     ;Brighton         ;England             ;CB ;	26;	26;	2325;	0;	0;	3;	0;	2;	6.7
+Danny         ;Welbeck		     ;Brighton         ;England             ;CF ;	30;	22;	1429;	5;	1;	0;	0;	1;	6.2
+Timo          ;Werner			 ;Chelsea          ;Germany             ;ST ;	25;	33;	2427;	6;	8;	1;	0;	1;	6.5
+Ashley        ;Westwood		     ;Burnley          ;England             ;CM ;	31;	34;	3051;	2;	3;	6;	0;	0;	6.5
+Ben           ;White		     ;Brighton         ;England             ;CB ;	23;	33;	2925;	0;	0;	4;	0;	0;	6.5
+Georginio     ;Wijnaldum         ;Liverpool        ;Netherlands         ;CM ;	30;	31;	2702;	2;	0;	1;	0;	0;	6.6
+Brandon       ;Williams	         ;Manchester United;England             ;LB ;	20;	2 ;	6	;   0;	0;	0;	0;	0;	5.0
+Rhys          ;Williams		     ;Liverpool        ;England             ;CB ;	20;	5 ;	306	;   0;	0;	0;	0;	0;	6.7
+Neco          ;Williams		     ;Liverpool        ;Wales               ;RB ;	20;	5 ;	249	;   0;	0;	1;	0;	0;	6.4
+Joe           ;Willock			 ;Arsenal          ;England             ;CAM;	21;	18;	948	;   5;	0;	1;	0;	0;	6.4
+Callum        ;Wilson		     ;Newcastle        ;England             ;ST ;	29;	26;	2085;	12;	5;	2;	0;	3;	6.4
+Harry         ;Winks		     ;Tottenham Hotspur;England             ;CDM;	25;	12;	675	;   0;	0;	4;	0;	0;	6.4
+Chris         ;Wood			     ;Burnley          ;New Zealand         ;ST ;	29;	29;	2419;	11;	3;	0;	0;	1;	6.3
+Granit        ;Xhaka	         ;Arsenal          ;Switzerland         ;CDM;	28;	29;	2423;	1;	2;	7;	1;	5;	7.0
+Andrii        ;Yarmolenko	     ;West Ham         ;Ukraine             ;CAM;	31;	15;	362	;   0;	1;	3;	0;	0;	5.9
+DeAndre       ;Yedlin		     ;Newcastle        ;USA                 ;RB ;	27;	6 ;	437	;   0;	0;	0;	0;	0;	6.2
+Okay          ;Yokuşlu		     ;West Brom        ;Turkey              ;CM ;	27;	13;	1069;	0;	1;	3;	0;	0;	6.9
+Wilfried      ;Zaha		         ;Crystal Palace   ;Ivory Coast         ;LW ;	28;	26;	2253;	10;	2;	4;	0;	3;	6.6
+André         ;Zambo Anguissa    ;Fulham           ;Cameroon            ;CDM;	25;	32;	2298;	0;	3;	5;	0;	2;	6.8
+Andi          ;Zeqiri			 ;Brighton         ;Switzerland         ;CAM;	21;	7 ;	130	;   0;	0;	0;	0;	0;	5.8
+Oleksandr     ;Zinchenko         ;Manchester City  ;Ukraine             ;LB ;	24;	18;	1294;	0;	0;	0;	0;	2;	7.3
+Hakim         ;Ziyech		     ;Chelsea          ;Morocco             ;RW ;	28;	21;	1136;	2;	3;	3;	0;	1;	6.4
+Willy         ;Boly			     ;Wolves           ;Ivory Coast         ;CB ;	30;	19;	1710;	1;	1;	1;	0;	1;	6.5
+Kurt          ;Zouma		     ;Chelsea          ;France              ;CB ;	26;	22;	1935;	5;	0;	3;	0;	3;	7.2

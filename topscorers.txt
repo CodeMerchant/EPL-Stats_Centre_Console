@@ -1,0 +1,10 @@
+Dominic    ;Calvert-Lewin ;Everton          ;England    ;ST;16
+Patrick    ;Bamford       ;Leeds United     ;England    ;ST;15
+Alexandre  ;Lacazette     ;Arsenal          ;France     ;ST;13
+Mohamed    ;Salah         ;Liverpool        ;Egypt      ;RW;22
+Jamie      ;Vardy         ;Leicester City   ;England    ;ST;13
+Harry      ;Kane          ;Tottenham Hotspur;England    ;ST;22
+Bruno      ;Fernandes     ;Manchester United;Portugal   ;CAM;18
+Son        ;Heung-Min     ;Tottenham Hotspur;South Korea;LW;17
+Ilkay      ;Gundogan      ;Manchester City  ;Germany    ;CM;12
+Ollie      ;Watkins       ;Aston Villa      ;England    ;ST;13

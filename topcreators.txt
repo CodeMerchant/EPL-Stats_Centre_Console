@@ -1,0 +1,10 @@
+Harry   ;Kane     ;Tottenham Hotspur;England    ;ST;13
+Bruno   ;Fernandes;Manchester United;Portugal   ;CAM;11
+Kevin   ;De Bruyne;Manchester City  ;Belgium    ;CAM;11
+Jack    ;Grealish ;Aston Villa      ;England    ;CAM;10
+Son     ;Heung-Min;Tottenham Hotspur;South Korea;LW;10
+Marcus  ;Rashford ;Manchester United;England    ;LW;9
+Jamie   ;Vardy    ;Leicester City   ;England    ;ST;9
+Patrick ;Bamford  ;Leeds United     ;England    ;ST;7
+Aaron   ;Cresswell;West Ham         ;England    ;LB;7
+Timo    ;Werner   ;Chelsea          ;Germany    ;ST;8

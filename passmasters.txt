@@ -1,0 +1,10 @@
+Ruben        ;Dias            ;Manchester City  ;Portugal;CB;2496
+Pierre-Emile ;Hojbjerg        ;Tottenham Hotspur;Denmark ;CDM;2389
+Rodrigo      ;Rodri           ;Manchester City  ;Spain   ;CDM;2371
+Andrew       ;Robertson       ;Liverpool        ;Scotland;LB;2357
+Youri        ;Tielemans       ;Leicester City   ;Belgium ;CM;2260
+Harry        ;Maguire         ;Manchester United;England ;CB;2185
+James        ;Ward-Prowse     ;Southampton      ;England ;CM;2107
+Luke         ;Ayling          ;Leeds United     ;England ;RB;2093
+Trent        ;Alexander-Arnold;Liverpool        ;England ;RB;2091
+Lewis        ;Dunk            ;Brighton         ;England ;CB;2030
