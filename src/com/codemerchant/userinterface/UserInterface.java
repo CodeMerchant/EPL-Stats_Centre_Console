@@ -59,7 +59,7 @@ public class UserInterface {
 
     }
 
-    public void readCommand(String command) {
+    private void readCommand(String command) {
 
         if (command.equalsIgnoreCase("1")) {
             // System.out.print("Enter file name: ");
@@ -105,7 +105,7 @@ public class UserInterface {
         }
     }
 
-    public static List<Club> readClubs() {
+    private static List<Club> readClubs() {
         List<Club> clubList = new ArrayList<>();
 
         try {
@@ -124,7 +124,7 @@ public class UserInterface {
         return clubList;
     }
 
-    public static void generateLeagueTable(List<Club> table) {
+    private static void generateLeagueTable(List<Club> table) {
 
         getTableTopBar();
 
@@ -157,7 +157,7 @@ public class UserInterface {
         System.out.println("\nLeague table after Matchday 36");
     }
 
-    public static List<InDepthPlayerStats> readPlayerStats() {
+    private static List<InDepthPlayerStats> readPlayerStats() {
         List<InDepthPlayerStats> inDepthPlayerStatsList = new ArrayList<>();
 
         try {
@@ -179,7 +179,7 @@ public class UserInterface {
         return inDepthPlayerStatsList;
     }
 
-    public static void generatePlayerStats(List<InDepthPlayerStats> inDepthPlayerStatsList) {
+    private static void generatePlayerStats(List<InDepthPlayerStats> inDepthPlayerStatsList) {
 
         getInDepthPlayersStatsBar();
 
@@ -194,7 +194,7 @@ public class UserInterface {
                 .forEach(System.out::println);
     }
 
-    public static List<GoalStatistics> readGoalStats() {
+    private static List<GoalStatistics> readGoalStats() {
         List<GoalStatistics> goalStatistics = new ArrayList<>();
         try {
             Files.lines(Paths.get("topscorers.txt"))
@@ -210,7 +210,7 @@ public class UserInterface {
         return goalStatistics;
     }
 
-    public static void generateScorersChart(List<GoalStatistics> goalStatistics) {
+    private static void generateScorersChart(List<GoalStatistics> goalStatistics) {
         //String name, String surname, String club, String position, int goalsScored
         System.out.println("\t" + String.format("%-20s %-20s %-20s %-22s %-6s %-10s", "Name",
                 "Surname", "Club", "Country", "Pos", "Goals") +
@@ -236,7 +236,7 @@ public class UserInterface {
         System.out.println();
     }
 
-    public static List<CleanSheets> readCleanSheetStats() {
+    private static List<CleanSheets> readCleanSheetStats() {
         List<CleanSheets> cleanSheetsList = new ArrayList<>();
 
         try {
@@ -250,7 +250,7 @@ public class UserInterface {
         return cleanSheetsList;
     }
 
-    public static void generateCleanSheetChart(List<CleanSheets> cleanSheetsList) {
+    private static void generateCleanSheetChart(List<CleanSheets> cleanSheetsList) {
         System.out.println("\tName" + "\t\tSurname" + "\t\t\t\tClub" + "\t\t\t\t\tCountry" + "\t\t\tPos" + "\t\tClean Sheets" +
                 "\n==================================================================================================");
 
@@ -276,7 +276,7 @@ public class UserInterface {
 
     }
 
-    public static List<PassingStatistics> readPassingStats() {
+    private static List<PassingStatistics> readPassingStats() {
         List<PassingStatistics> passingStatisticsList = new ArrayList<>();
 
         try {
@@ -293,7 +293,7 @@ public class UserInterface {
         return passingStatisticsList;
     }
 
-    public static void generatePassersChart(List<PassingStatistics> passingStatisticsList) {
+    private static void generatePassersChart(List<PassingStatistics> passingStatisticsList) {
 
 
         System.out.println("\t" + String.format("%-20s %-20s %-20s %-22s %-6s %-10s", "Name",
@@ -325,7 +325,7 @@ public class UserInterface {
 
     }
 
-    public static List<PlayerAssists> readAssistStats() {
+    private static List<PlayerAssists> readAssistStats() {
 
         List<PlayerAssists> playerAssistsList = new ArrayList<>();
 
@@ -342,7 +342,7 @@ public class UserInterface {
         return playerAssistsList;
     }
 
-    public static void generateAssistChart(List<PlayerAssists> playerAssistsList) {
+    private static void generateAssistChart(List<PlayerAssists> playerAssistsList) {
 
 
         System.out.println("\t" + String.format("%-20s %-20s %-20s %-22s %-6s %-10s", "Name",
@@ -366,7 +366,7 @@ public class UserInterface {
                 .forEach(System.out::println);
     }
 
-    public static void viewClubSeasonStats(List<Club> clubList, String clubName) {
+    private static void viewClubSeasonStats(List<Club> clubList, String clubName) {
         String club = clubName.toLowerCase();
         getTableTopBar();
 
@@ -379,7 +379,7 @@ public class UserInterface {
         System.out.println();
     }
 
-    public static void viewTopTenAssisters(List<InDepthPlayerStats> inDepthPlayerStatsList) {
+    private static void viewTopTenAssisters(List<InDepthPlayerStats> inDepthPlayerStatsList) {
         getInDepthPlayersStatsBar();
 
         inDepthPlayerStatsList = readPlayerStats();
@@ -403,7 +403,7 @@ public class UserInterface {
 
     }
 
-    public static void viewTopTenGoalScorers(List<InDepthPlayerStats> inDepthPlayerStatsList) {
+    private static void viewTopTenGoalScorers(List<InDepthPlayerStats> inDepthPlayerStatsList) {
         getInDepthPlayersStatsBar();
 
         inDepthPlayerStatsList = readPlayerStats();
@@ -430,7 +430,7 @@ public class UserInterface {
     }
 
 
-    public static void viewSquads(List<InDepthPlayerStats> inDepthPlayerStatsList, String club) {
+    private static void viewSquads(List<InDepthPlayerStats> inDepthPlayerStatsList, String club) {
         String clubName = club.toLowerCase();
         System.out.println(String.format("%-20s %-20s %-20s %-22s %-6s %-10s %-10s %-10s %-10s %-10s %-10s %-10s %-10s %-10s ", "Name",
                 "Surname", "Club", "Country", "Pos", "Age", "Apps", "Minutes", "Goals", "Assists", "Yellows", "Reds", "MOTM", "Avg Rating")
@@ -447,7 +447,7 @@ public class UserInterface {
 
     }
 
-    public static void viewTotalGoalsScoredSoFar(List<Club> totalGoals) {
+    private static void viewTotalGoalsScoredSoFar(List<Club> totalGoals) {
         totalGoals = readClubs();
 
         int sum = totalGoals.stream()
